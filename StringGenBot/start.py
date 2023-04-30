@@ -19,7 +19,7 @@ async def start(bot: Client, msg: Message):
 𝐅𝐔𝐋𝐋𝐘 𝐒𝐀𝐅𝐄 & 𝐒𝐄𝐂𝐔𝐑𝐄.
 𝐍𝐎 𝐀𝐌𝐘 𝐄𝐑𝐑𝐎𝐑.
 
-𝐌𝐚𝐝𝐞 𝐁𝐲  : [ϲυτє ϐαϲϲнα]/user?id={OWNER_ID}) !""",
+𝐌𝐚𝐝𝐞 𝐁𝐲  : [ϲυτє ϐαϲϲнα](https://t.me/DRACULA_CHEERY) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
